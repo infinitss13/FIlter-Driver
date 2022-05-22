@@ -1,0 +1,26 @@
+﻿  Building 'FsFilter' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Debug\FsFilter.inf
+  Stamping [Version] section with DriverVer=05/21/2022,20.54.4.213
+F:\CourseWork\fileSystemFilter\src\FSFilter\FsFilter.inf : warning 1420: [DefaultInstall]-based INF cannot be processed as Primitive.
+F:\CourseWork\fileSystemFilter\src\FSFilter\FsFilter.inf(5-5): warning 1324: [Version] section should specify PnpLockdown=1.
+F:\CourseWork\fileSystemFilter\src\FSFilter\FsFilter.inf(21-21): warning 1421: Section [DefaultInstall] should have an architecture decoration.
+F:\CourseWork\fileSystemFilter\src\FSFilter\FsFilter.inf(32-32): warning 1421: Section [DefaultUninstall] should have an architecture decoration.
+F:\CourseWork\fileSystemFilter\src\FSFilter\FsFilter.inf(67-67): warning 1205: Section [Filter.DriverFiles] referenced from DelFiles and CopyFiles directive.
+  FsFilter.vcxproj -> F:\CourseWork\fileSystemFilter\src\x64\Debug\FsFilter.sys
+  Done Adding Additional Store
+  Successfully signed: F:\CourseWork\fileSystemFilter\src\x64\Debug\FsFilter.sys
+  
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  F:\CourseWork\fileSystemFilter\src\x64\Debug\FsFilter\fsfilter.cat
+  Done Adding Additional Store
+  Successfully signed: F:\CourseWork\fileSystemFilter\src\x64\Debug\FsFilter\fsfilter.cat
+  
